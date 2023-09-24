@@ -1,0 +1,4 @@
+data_path :
+  train : 'speech-based-classification-layer-9/train.csv'
+  valid : 'speech-based-classification-layer-9/valid.csv'
+  test  : 'speech-based-classification-layer-9/test.csv'
